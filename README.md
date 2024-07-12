@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar-hhauyeung&label=Profile%20views&color=0e75b6&style=flat" alt="oscar-hhauyeung" /> </p>
 
-- 🔭 I’m currently working as **a Summer Intern at MTRC**
+- 🔭 I’m currently working as | **Summer Intern  @MTRC**
 
-- 🌱 I’m currently studying **Computer Science at CUHK**
+- 🌱 I’m currently studying | **Computer Science @CUHK**
 
-- 📫 How to reach me **oscar.hhauyeung@gmail.com**
+- 📫 How to reach | **oscar.hhauyeung@gmail.com**
 
-- ⚡ Fun fact **I am tired all the time**
+- ⚡ Fun fact | **Always feeling tired**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
