@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate student from Hong Kong</h3>
+<h3 align="center">CS Graduate from Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar-hhauyeung&label=Profile%20views&color=0e75b6&style=flat" alt="oscar-hhauyeung" /> </p>
 
-- 🌱 I’m currently studying | **Computer Science @CUHK**
+- 🌱 Graduated | **Computer Science @CUHK**
 
 - 📫 How to reach | **oscar.hhauyeung@gmail.com**
 
